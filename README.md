@@ -11,4 +11,4 @@ Programming Environment:
 This is a python program that is being modified in the Visual Studio Code. This project utilizes Python Interpreter Install, Python Visual Studio Code Extension, Python OpenCV, numpy, and pyscreenshot Website. To run this project you will have to install python, python OpenCV, and numpy.
 
 Run the program:
-Open the .py file in the Python IDLE terminal and hit run.
+Open the .py file in the Python IDLE terminal and hit run
