@@ -21,4 +21,4 @@ This is a python program that is being modified in the Visual Studio Code. This 
 
 
 Run the program:
-Open the .py file in the Python IDLE terminal and hit run
+Open the .py file in the Python IDLE terminal and hit run.
